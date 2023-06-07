@@ -1,0 +1,64 @@
+{
+  "feriados": [
+    {
+      "data": "2023-01-01",
+      "nome": "Confraternização Universal",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-02-25",
+      "nome": "Carnaval",
+      "tipo": "Facultativo"
+    },
+    {
+      "data": "2023-04-07",
+      "nome": "Sexta-feira Santa",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-04-21",
+      "nome": "Tiradentes",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-05-01",
+      "nome": "Dia do Trabalho",
+      "tipo": "Nacional"
+    },
+    {
+        "data": "2023-06-07",
+        "nome": "Teste",
+        "tipo": "Municipal"
+    },
+    {
+      "data": "2023-06-15",
+      "nome": "Corpus Christi",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-09-07",
+      "nome": "Independência do Brasil",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-10-12",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-11-02",
+      "nome": "Finados",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-11-15",
+      "nome": "Proclamação da República",
+      "tipo": "Nacional"
+    },
+    {
+      "data": "2023-12-25",
+      "nome": "Natal",
+      "tipo": "Nacional"
+    }
+  ]
+}
